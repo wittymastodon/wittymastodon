@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @wittymastodon
-I am using this as a way of practicing for different certifications, one thing I really need to work on is report writing...
+- 👋 Hi, I’m Nicole
+I am using this as a way of practicing report writing and walkthroughs for different certifications,
+Eventually I will upload some scripts I have been tinkering with.
 Not sure what else to put in here...
 
 <!---
