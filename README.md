@@ -1,17 +1,15 @@
 - 👋 Hi, I’m Nicole
-I am using this as a way of practicing report writing and walkthroughs for different certifications,
-Eventually I will upload some scripts I have been tinkering with.
+ Nicole W. | Security Operations & IR [![CISSP](https://img.shields.io/badge/CISSP-Certified-blue)]() [![OSCP](https://img.shields.io/badge/OSCP-In_Progress-orange)]() >  What I'm working on - 🔴 Offensive: OSCP lab progression (TJ Null list) - 🔵 Defensive: Threat hunting with Security Onion + ELK - 📝 Publishing IR writeups and hunt reports ## Repos worth visiting | Repo | What it is | |------|------------| | [oscp-notes](./oscp-notes) | Lab notes, methodology, tools | | [threat-hunting-lab](./threat-hunting-lab) | Home lab hunt reports | | [ir-templates](./ir-templates) | My IR report templates |
 
-Coming soon, working on a blog posting site. Researching inbetween my practice times for PNPT! Ultimately I want to try again at getting OSCP!
-This time, with better methodology, far more prepared report writing and far more through walkthroughs.
+Certification List:
+ISC2 CISSP
+CompTIA CySA+
+CompTIA PenTest+
+CompTIA Security+
+GIAC Cloud Security Essentials (GCLD)
+EC-Council Certified Ethical Hacker (C|EH)
+eJPTv2 (Expired)
 
-Reports to watch out for:
-  HTB Cicada, when its allowed
-  HTB Administrator, when its allowed
-  HTB Chemistry, when its allowed
-  TryHackMe Search!
-  
-Working on Dante ProLabs, I'll have a review of that, and not a walkthru our a report because that voids terms of service, so far I am really enjoying the challenge.
 
 
 <!---
